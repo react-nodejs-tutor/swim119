@@ -11,6 +11,5 @@
 * [여고부 평영 100m](c5ec-ace0bd80-d3c9-c601-100m-acb0-c2b9.md)
 * [남 일반부 평영 100m](b0a8-c77c-bc18-bd80-d3c9-c601-100m.md)
 * [여 일반부 평영 100m](c5ec-c77c-bc18-bd80-d3c9-c601-100m.md)
-* [남 일반부 배영 200m](b0a8-c77c-bc18-bd80-bc30-c601-200m.md)
-* [여 일반부 배영 200m](c5ec-c77c-bc18-bd80-bc30-c601-200m.md)
+* test
 
